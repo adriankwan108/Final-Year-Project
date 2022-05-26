@@ -36,7 +36,7 @@ Gameplay:
         Bonfire (reset player, world and AI status, fast travelling, save game)
         All player and AI's hitbox and hurtbox handler
         Ragdoll physics effect for some AI's dead body
-    (Third Party:)
+    (Both own coding & Third Party:)
         Multi-player: Invasion (by Photon)
 
 AI:
