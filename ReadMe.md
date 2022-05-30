@@ -67,3 +67,13 @@ Levels:
         Auto-changed post-processing (Leave/get in in-door environment)
 
 </pre>
+
+*Results*
+Judged by 1 instructor and 2 professor
+Sem1 grades for whole group
+Sem2 grades per person
+<pre>
+Term\Judge  1   2   3   Overall
+   Sem1:    B   A-  B+    B+
+   Sem2:    C+  A-  B+    B
+</pre>
